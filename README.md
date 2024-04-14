@@ -1,7 +1,4 @@
-# droplett
+# droplet
 
-A new Flutter project.
+Droplet aims to prepare the next generation of Web3 users and instill blockchain literacy from an early age with our cross-platform mobile app, seamlessly integrating blockchain education with chores, learning and goal setting for young users.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
